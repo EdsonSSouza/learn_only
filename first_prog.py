@@ -7,3 +7,6 @@ print(raiz)
 
 matriz = np.zeros([2,2])
 print(matriz)
+
+matriz[0,1], matriz[1,1] = 1,-2
+print('\n', matriz)
