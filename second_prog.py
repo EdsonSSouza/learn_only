@@ -1,2 +1,2 @@
-print('soma')
+print('soma 1+1 =', 1+1)
 1+1
