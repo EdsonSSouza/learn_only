@@ -4,3 +4,6 @@ import numpy as np
 
 raiz = np.sqrt(4)
 print(raiz)
+
+matriz = np.zeros([2,2])
+print(matriz)
